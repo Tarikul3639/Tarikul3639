@@ -44,7 +44,7 @@ Hi! My name is **Tarikul Islam**. I am a student at **Bangladesh University of B
 <!-- Snake -->
 <div align="center">
     
-  ![snake gif](https://github.com/TarikulIslam3639/TarikulIslam3639/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Tarikul3639/Tarikul3639/blob/output/github-snake-dark.svg)
 </div>
 
 <!-- Counter -->
