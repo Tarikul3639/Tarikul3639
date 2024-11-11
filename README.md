@@ -64,6 +64,8 @@ Hi! My name is **Tarikul Islam**. I am a student at **Bangladesh University of B
 
 <!-- Counter -->
 <div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=TarikulIslam3639&icon=10&color=6)](https://visitcount.itsvg.in)
+  <a href="https://tarikul3639.github.io/tarikulislam3639/" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=TarikulIslam3639&icon=10&color=6" alt="Visit Count">
+  </a>
 </div>
+
