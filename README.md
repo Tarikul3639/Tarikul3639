@@ -48,8 +48,6 @@ Hi! My name is **Tarikul Islam**. I am a student at **Bangladesh University of B
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/output/github-contribution-grid-snake.svg">
 </picture>
-
-_generated with [Tarikul3639/snk](https://github.com/Tarikul3639/snk)_
 </div>
 
 <!-- Counter -->
