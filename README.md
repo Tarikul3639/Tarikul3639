@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tarikul3639&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarikul3639&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikul3639&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikul3639&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="42.2%" /> </br>
 </div>
 
 
@@ -64,8 +64,10 @@ Hi! My name is **Tarikul Islam**. I am a student at **Bangladesh University of B
 
 <!-- Counter -->
 <div align="center">
-  <a href="https://tarikul3639.github.io/tarikulislam3639/" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=TarikulIslam3639&icon=10&color=6" alt="Visit Count">
+  <a href="https://tarikul-islam.netlify.app" target="_blank" style="text-decoration: none; margin-top: 500px; color: inherit;">
+    <span style="display: flex; align-items: center; gap: 10px margin-top: 100px;;">
+      <img src="https://github.com/Tarikul3639/Portfolio/blob/main/Client/src/assets/image/Profile.webp?raw=true" alt="Profile" width="40" height="40" style="border-radius: 50%;" />
+      <p style="font-size: 16px;">Tarikul Islam</p>
+    </span>
   </a>
 </div>
-
