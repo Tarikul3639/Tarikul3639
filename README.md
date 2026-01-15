@@ -15,17 +15,62 @@ I'm a passionate developer focused on building amazing web applications and solv
 - 💼 Visit my portfolio:  [tarikul-islam.me](https://www.tarikul-islam.me)
 - 💬 Ask me about Web Development, Programming, and Tech
 - 📫 How to reach me: tarikulislam3639@gmail.com
-- ⚡ Fun fact: I love turning ideas into reality through code! 
+- ⚡ Fun fact: I love turning ideas into reality through code!
 
-## 🛠️ Technologies & Tools
+  
+## ⚡ Technologies & Tools
+<p align="left">
 
-<!-- You can customize this section with your tech stack -->
-```
-Languages: JavaScript, Python, Java, C++, HTML, CSS
-Frameworks: React, Node.js, Express, Django
-Databases:  MongoDB, MySQL, PostgreSQL
-Tools: Git, Docker, VS Code, Postman
-```
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/icons/HTML5.png" width="36" height="36" alt="HTML5" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/icons/CSS3.png" width="36" height="36" alt="CSS3" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/icons/JavaScript.png" width="36" height="36" alt="JavaScript" />
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/icons/typescript.png" width="36" height="36" alt="TypeScript" />
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/icons/react.png" width="36" height="36" alt="React" />
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/icons/Vite.js.png" width="36" height="36" alt="Vite" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/icons/Tailwind%20CSS.png" width="36" height="36" alt="Tailwind CSS" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/icons/Node.js.png" width="36" height="36" alt="Node.js" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/icons/Express.png" width="36" height="36" alt="Express.js" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/icons/MongoDB.png" width="36" height="36" alt="MongoDB" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/icons/Git.png" width="36" height="36" alt="Git" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/icons/Visual%20Studio%20Code%20(VS%20Code).png" width="36" height="36" alt="VS Code" />
+</a>
+
+</p>
+
 
 ## 📈 GitHub Stats
 
