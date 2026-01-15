@@ -42,43 +42,13 @@ I'm a passionate developer focused on building amazing web applications and solv
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
-          <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
@@ -88,59 +58,49 @@ I'm a passionate developer focused on building amazing web applications and solv
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
   </tr>
-   <tr>
+  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+        <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/CSS3.png" alt="CSS3" width="48" height="48" />
+      <br>CSS3
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
+        <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/HTML5.png" alt="HTML5" width="48" height="48" />
+      <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
+        <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/Express.png" alt="Express" width="48" height="48" />
+      <br>Express
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
+        <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/MongoDB.png" alt="MongoDB" width="48" height="48" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
+        <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/Node.js.png" alt="Node.js" width="48" height="48" />
+      <br>Node.js
     </td>
     <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
+        <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/Vite.js.png" alt="Vite.js" width="48" height="48" />
+      <br>Vite.js
     </td>
     <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
+        <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/react.png" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/typescript.png" alt="TypeScript" width="48" height="48" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/Visual%20Studio%20Code%20(VS%20Code).png" alt="VS Code" width="48" height="48" />
+      <br>VS Code
     </td>
   </tr>
- <tr>
- </tr>
 </table>
 
 ## 📈 GitHub Stats
