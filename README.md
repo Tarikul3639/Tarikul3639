@@ -1,3 +1,14 @@
+<!-- Welcome Header -->
+<div align="center">
+  <h1>👋 Welcome! I'm Tarikul Islam</h1>
+  <p><em>Student | Developer | Problem Solver</em></p>
+</div>
+
+<!-- GitHub Metrics -->
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</div>
+
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tarikul3639&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
@@ -70,4 +81,12 @@ Hi! My name is **Tarikul Islam**. I am a student at **Bangladesh University of B
       <p style="font-size: 16px;">Tarikul Islam</p>
     </span>
   </a>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <p><sub>📊 Metrics powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub></p>
+  <p><sub>⭐ If you like my profile, consider giving it a star!</sub></p>
 </div>
