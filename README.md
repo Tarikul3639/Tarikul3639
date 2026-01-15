@@ -99,13 +99,20 @@
 
 <table>
   <tr>
-    <td colspan="2" align="center">
-      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-      <details><summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+    <td colspan="2" align="center" width="870">
+      <details open>
+        <summary>Full year calendar</summary>
+        <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/assets/metrics.plugin.isocalendar.fullyear.svg" alt="Full year calendar" />
+      </details>
+      <details>
+        <summary>Half year calendar</summary>
+        <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/assets/metrics.plugin.isocalendar.svg" alt="Half year calendar" />
+      </details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
 </table>
+
 
 
 ## 📫 Let's Connect
