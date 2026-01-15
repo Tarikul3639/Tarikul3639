@@ -1,16 +1,3 @@
-
-## 🔗 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarikul3639/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.tarikul-islam.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarikulislam3639@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarikul3639)
-![Profile Views](https://komarev.com/ghpvc/?username=Tarikul3639&color=brightgreen&style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
   
 ## My favorite tools and technologies ⚙️
 
@@ -114,13 +101,18 @@
 </table>
 
 
-
 ## 📫 Let's Connect
 
-I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about creating awesome things with code
+I'm always open to connecting with developers and tech enthusiasts.
 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/tarikul3639) 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/tarikul3639)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-%20Gmail-red?style=flat&logo=gmail)](mailto:tarikulislam3639@gmail.com)
+<div align="left">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarikul3639/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.tarikul-islam.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarikulislam3639@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Tarikul3639&color=brightgreen&style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=brightgreen)](https://github.com/Tarikul3639)
 
-![js-bg](https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/assets/engin.gif)
+</div>
+
+<img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/assets/engin.gif" width="870" alt="js-bg" />
