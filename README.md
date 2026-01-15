@@ -1,73 +1,72 @@
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarikul3639&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarikul3639&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikul3639&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="42.2%" /> </br>
-</div>
+# Hi there! 👋 I'm Tarikul Islam
 
-
-<!-- Tech Stack -->
 <div align="center">
   
-## 💻 Tech Stack ⚡
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Algorithm](https://img.shields.io/badge/algorithm-%23FF69B4.svg?style=for-the-badge)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Metrics](github-metrics.svg)
 
 </div>
 
-<!-- About Me -->
+## 🚀 About Me
+
+I'm a passionate developer focused on building amazing web applications and solving real-world problems through code. 
+
+- 🔭 I'm currently working on exciting projects
+- 🌱 I'm constantly learning and exploring new technologies
+- 💼 Visit my portfolio:  [tarikul-islam.me](https://www.tarikul-islam.me)
+- 💬 Ask me about Web Development, Programming, and Tech
+- 📫 How to reach me: tarikulislam3639@gmail.com
+- ⚡ Fun fact: I love turning ideas into reality through code! 
+
+## 🛠️ Technologies & Tools
+
+<!-- You can customize this section with your tech stack -->
+```
+Languages: JavaScript, Python, Java, C++, HTML, CSS
+Frameworks: React, Node.js, Express, Django
+Databases:  MongoDB, MySQL, PostgreSQL
+Tools: Git, Docker, VS Code, Postman
+```
+
+## 📈 GitHub Stats
+
+The metrics above are automatically generated and include:
+- 📊 Basic statistics (commits, PRs, issues, stars)
+- 📅 Isometric commit calendar - full year visualization
+- 🈷️ Most used programming languages
+- 🏆 GitHub achievements and milestones
+- 📰 Recent activity and contributions
+- 💡 Coding habits and patterns
+- 🌟 Recently starred repositories
+- 📌 Topics I'm interested in
+- And much more!
+
+## 🔗 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarikul3639/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.tarikul-islam.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarikulislam3639@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000? style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarikul3639)
+
+</div>
+
+## 💼 Portfolio
+
+Check out my work and projects at **[tarikul-islam.me](https://www.tarikul-islam.me)**
+
+## 📊 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tarikul3639&color=brightgreen&style=flat-square)
+
+---
+
 <div align="center">
   
-## 👨‍🎓 About Me
-Hi! My name is **Tarikul Islam**. I am a student at **Bangladesh University of Business and Technology (BUBT)**. Connect with me on my social media accounts below!
+### 💖 Thanks for visiting my profile! 
 
-</div>
+**Feel free to explore my repositories and don't hesitate to reach out! **
 
-<!-- Socials -->
-<div align="center">
-  
-## 🌐 Connect with Me 🍬
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tarikulislam3639) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-%23F79F1B.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/TARIKUL_ISLAM) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tarikul3639) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarikul-islam-a439a0253/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tarikulislam3639/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tarikulislam3639@gmail.com)
+<sub>📊 Metrics powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
 
-</div>
-
-<!-- Snake -->
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
-<!-- Counter -->
-<div align="center">
-  <a href="https://tarikul-islam.netlify.app" target="_blank" style="text-decoration: none; margin-top: 500px; color: inherit;">
-    <span style="display: flex; align-items: center; gap: 10px margin-top: 100px;;">
-      <img src="https://github.com/Tarikul3639/Portfolio/blob/main/Client/src/assets/image/Profile.webp?raw=true" alt="Profile" width="40" height="40" style="border-radius: 50%;" />
-      <p style="font-size: 16px;">Tarikul Islam</p>
-    </span>
-  </a>
 </div>
