@@ -70,3 +70,14 @@ Check out my work and projects at **[tarikul-islam.me](https://www.tarikul-islam
 <sub>📊 Metrics powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
 
 </div>
+
+
+## 📫 Let's Connect
+
+I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about creating awesome things with code
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/tarikul3639) 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/tarikul3639)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-%20Gmail-red?style=flat&logo=gmail)](mailto:tarikulislam3639@gmail.com)
+
+![js-bg](https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/assets/engin.gif)
