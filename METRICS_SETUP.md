@@ -55,7 +55,7 @@ The workflow file should already be created at `.github/workflows/metrics.yml`. 
 1. Go to the **"Actions"** tab in your repository
 2. In the left sidebar, click on **"Metrics"** workflow
 3. Click the **"Run workflow"** button (on the right side)
-4. Select the branch (usually `master` or `main`)
+4. Select the branch (usually `main`)
 5. Click **"Run workflow"** to start the metrics generation
 
 ## Step 5: Wait for Completion
