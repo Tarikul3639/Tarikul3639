@@ -3,7 +3,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Tarikul+Islam;Full-Stack+Developer;Exploring+AI+%26+Coding;Building+the+Future+with+Code+%26+Knowledge" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=23AAF2&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Tarikul+Islam;Full-Stack+Web+Developer;Exploring+AI+%26+Coding;Building+the+Future+with+Code+%26+Knowledge" 
     alt="Typing SVG" 
   />
 </div>
@@ -13,7 +13,7 @@
 <!-- Professional Banner -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Building%20with%20Purpose,%20Learning%20Every%20Day&fontSize=38&fontColor=000000&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Building%20with%20Purpose,%20Learning%20Every%20Day&fontSize=38&fontColor=9bbddd&animation=fadeIn&fontAlignY=35"
     width="100%"
     alt="Banner"
   />
