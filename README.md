@@ -13,7 +13,7 @@
 <!-- Professional Banner -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Building%20with%20Purpose,%20Learning%20Every%20Day&fontSize=38&fontColor=9bbddd&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Building%20with%20Purpose,%20Learning%20Every%20Day&fontSize=38&fontColor=cddeee&animation=fadeIn&fontAlignY=35"
     width="100%"
     alt="Banner"
   />
