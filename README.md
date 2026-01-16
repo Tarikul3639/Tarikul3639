@@ -6,7 +6,6 @@
   />
 </div>
  
-
 <!-- Professional Banner -->
 <div align="center">
   <img 
@@ -16,6 +15,7 @@
   />
 </div>
 
+<!--All Stack -->
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -101,7 +101,7 @@
   </tr>
 </table>
 
-
+<!-- Calendar -->
 <table width="100%">
   <tr>
     <td colspan="2" align="center" width="1012">
@@ -118,15 +118,15 @@
   </tr>
 </table>
 
+<!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
-
+<!-- Connect Me -->
 ## 📫 Let's Connect
 
-I'm always open to connecting with developers and tech enthusiasts.
-
+I'm always open to connecting with developers and tech enthusiasts. Feel free to reach out to me through any of the platforms below!
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarikul3639/)
@@ -136,4 +136,5 @@ I'm always open to connecting with developers and tech enthusiasts.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=brightgreen)](https://github.com/Tarikul3639)
 </div>
 
+<!-- Js Engin -->
 <img src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/assets/engin.gif" width="100%" alt="js-bg" />
