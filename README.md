@@ -23,89 +23,119 @@
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
-<table width="1012" style="table-layout: fixed; margin: 0 auto;">
-  <!-- ===== Row 1 ===== -->
+<table width="1008" style="table-layout: fixed; margin: 0 auto;">
+  <!-- ===== Row 1 (Max 9 items) ===== -->
   <tr>
     <td align="center" width="112">
-      <img src="./icons/nest-js-icon.svg" width="48" height="48" />
-      <br />NestJs
+      <img src="./icons/ts-icon.svg" width="48" height="48" />
+      <br />TypeScript
     </td>
     <td align="center" width="112">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" />
-      <br />C#
+      <img src="./icons/Next.js.svg" width="48" height="48" />
+      <br />Next.js
     </td>
     <td align="center" width="112">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" />
-      <br />Python
-    </td>
-    <td align="center" width="112">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="112">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" />
-      <br />C++
-    </td>
-    <td align="center" width="112">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" />
-      <br />GitHub
-    </td>
-    <td align="center" width="112">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" />
-      <br />REST API
-    </td>
-    <td align="center" width="112">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" />
-      <br />Bootstrap
-    </td>
-    <td align="center" width="112">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
-      <br />Tailwind
-    </td>
-    <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
-      <br />Git
-    </td>
-  </tr>
-
-  <!-- ===== Row 2 ===== -->
-  <tr>
-    <td align="center" width="112">
-      <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/CSS3.png" width="48" height="48" />
-      <br />CSS3
-    </td>
-    <td align="center" width="112">
-      <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/HTML5.png" width="48" height="48" />
-      <br />HTML5
-    </td>
-    <td align="center" width="112">
-      <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/Express.png" width="48" height="48" />
-      <br />Express
-    </td>
-    <td align="center" width="112">
-      <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/MongoDB.png" width="48" height="48" />
-      <br />MongoDB
-    </td>
-    <td align="center" width="112">
-      <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/Node.js.png" width="48" height="48" />
-      <br />Node.js
-    </td>
-    <td align="center" width="112">
-      <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/Vite.js.png" width="48" height="48" />
-      <br />Vite.js
-    </td>
-    <td align="center" width="112">
-      <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/react.png" width="48" height="48" />
+      <img src="./icons/React.svg" width="48" height="48" />
       <br />React
     </td>
     <td align="center" width="112">
-      <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/typescript.png" width="48" height="48" />
-      <br />TypeScript
+      <img src="./icons/redux-icon.svg" width="48" height="48" />
+      <br />Redux
     </td>
-    <td align="center" width="116">
-      <img src="https://raw.githubusercontent.com/Tarikul3639/Tarikul3639/main/icons/Visual%20Studio%20Code%20(VS%20Code).png" width="48" height="48" />
+    <td align="center" width="112">
+      <img src="./icons/nest-js-icon.svg" width="48" height="48" />
+      <br />NestJS
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/Node.js.svg" width="48" height="48" />
+      <br />Node.js
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/Socket.io.svg" width="48" height="48" />
+      <br />Socket.io
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/MongoDB.svg" width="48" height="48" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/PostgresSQL.svg" width="48" height="48" />
+      <br />PostgreSQL
+    </td>
+  </tr>
+
+  <!-- ===== Row 2 (Max 9 items) ===== -->
+  <tr>
+    <td align="center" width="112">
+      <img src="./icons/Tailwind CSS.svg" width="48" height="48" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/docker-icon.svg" width="48" height="48" />
+      <br />Docker
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/mysql-icon.svg" width="48" height="48" />
+      <br />MySQL
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/js-icon.svg" width="48" height="48" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/Express.svg" width="48" height="48" />
+      <br />Express
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/python-icon.svg" width="48" height="48" />
+      <br />Python
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/cpp-icon.svg" width="48" height="48" />
+      <br />C++
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/java-icon.svg" width="48" height="48" />
+      <br />Java
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/GitHub.svg" width="48" height="48" />
+      <br />GitHub
+    </td>
+  </tr>
+
+  <!-- ===== Row 3 (Remaining items) ===== -->
+  <tr>
+    <td align="center" width="112">
+      <img src="./icons/Git.svg" width="48" height="48" />
+      <br />Git
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/restapi-icon.svg" width="48" height="48" />
+      <br />REST API
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/prettier-icon.svg" width="48" height="48" />
+      <br />Prettier
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/Vite.js.svg" width="48" height="48" />
+      <br />Vite.js
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/HTML5.svg" width="48" height="48" />
+      <br />HTML5
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/CSS3.svg" width="48" height="48" />
+      <br />CSS3
+    </td>
+    <td align="center" width="112">
+      <img src="./icons/Visual Studio Code (VS Code).svg" width="48" height="48" />
       <br />VS Code
     </td>
+    <td align="center" width="112"></td>
+    <td align="center" width="112"></td>
   </tr>
 </table>
 
