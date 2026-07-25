@@ -27,6 +27,10 @@
   <!-- ===== Row 1 ===== -->
   <tr>
     <td align="center" width="112">
+      <img src="./icons/nest-js-icon.svg" width="48" height="48" />
+      <br />NestJs
+    </td>
+    <td align="center" width="112">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" />
       <br />C#
     </td>
